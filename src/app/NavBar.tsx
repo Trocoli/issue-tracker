@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import PropTypes from "prop-types";
 import Link from "next/link";
 import { AiFillBug } from "react-icons/ai";
 import { usePathname } from "next/navigation";
